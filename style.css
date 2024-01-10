@@ -1,0 +1,17 @@
+#box{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    margin: 5px;
+    align-items: center;
+}
+
+.content{
+    color:red;
+    text-overflow: clip;
+    background-color: rgb(214, 214, 232);
+}
+
+.newClass{
+    background-color: rgb(0, 255, 51);
+}
